@@ -1,0 +1,252 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*#77b8d3*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background: #F7E5E6;
+}
+body{
+    width: 410px;
+    background: #FFF;
+}
+
+/*デフォルト-------------------------------------------*/
+.center{
+    text-align: center;
+}
+
+
+/*   hedder   ----------------------------------------------*/
+.bg-blue{
+    background: #77b8d3;
+    display: inline-block;
+    padding-bottom: 0px;
+}
+
+.bg-blue img{
+    display: inline-block;
+    margin-top: 16px;
+}
+.title{
+    display:inline-block;
+    color: #FFF;
+    position: absolute;
+    top: 14px;
+    margin-left: 10px;
+}
+.title1{
+    letter-spacing: 15px;
+    font-size: 21px;
+}
+.title2{
+    letter-spacing: 4px;
+    font-size: 15px;
+}
+.title3{
+    letter-spacing: 5.5px;
+    font-size: 15px;
+}
+
+.twitter{
+    margin: -96px 34px 15px 316px;
+}
+
+/*  commentary    ----------------------------------------------*/
+.commentary p{
+    display: block;
+    color: #77b8d3;
+    line-height: 30px;
+    margin: 10px 30px;
+    font-size: 14px;
+}
+.commentary a{
+    display: block;
+    margin: 10px 30px;
+}
+
+
+
+
+
+
+/*  menu    ----------------------------------------------*/
+.menu{
+    margin: 50px;
+    list-style: disc;
+}
+
+
+
+
+
+/*   アフィリエイト   ----------------------------------------------*/
+.afi{
+    margin: 0 11px 40px 0;
+}
+/* MV壁紙      ----------------------------------------------*/
+                h4{
+                    text-align: center;
+                    display: block;
+                    margin: 20px;
+                }/*h4に対して全て*/
+.img img{
+    margin: 7px 11px;
+}
+.img p{
+    font-size: 13px
+}
+
+
+
+
+
+/*ここからmv*/
+.mv{
+    background: #d3edfb;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+.mv .div1{
+    display: inline-block;
+}
+.mv .div2{
+    display: inline-block;
+}
+
+
+
+
+.div1 p{
+    margin: 20px 0 0 50px;
+}
+.div2 p{
+    margin: 20px 0 0 70px;
+}
+
+
+
+
+/* ユニエアペイント壁紙      ----------------------------------------------*/
+.uniair{
+    background: #9fd9f6;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+.uniair .div3{
+    display: inline-block;
+}
+.uniair .div4{
+    display: inline-block;
+}
+.uniair .div5{
+    display: inline-block;
+}
+.uniair .div6{
+    display: inline-block;
+}
+
+
+
+
+
+.div3 p{
+    margin: 20px 0 0 70px;
+}
+.div4 p{
+    margin: 20px 0 0 67px;
+}
+.div5 p{
+    margin: 20px 0 0 67px;
+}
+.div6 p{
+    margin: 20px 0 0 76px;
+}
+
+/* none theme      ----------------------------------------------*/
+.non-theme{
+    background: #54c3f1;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+.non-theme .div7{
+    display: inline-block;
+}
+.non-theme .div8{
+    display: inline-block;
+}
+.non-theme .div9{
+    display: inline-block;
+}
+.non-theme .div10{
+    display: inline-block;
+}
+.non-theme .div11{
+    display: inline-block;
+}
+.non-theme .div12{
+    display: inline-block;
+}
+
+
+.div7 p{
+    margin: 20px 0 0 45px;
+}
+.div8 p{
+    margin: 20px 0 0 55px;
+}
+.div9 p{
+    margin: 20px 0 0 25px;
+}
+.div10 p{
+    margin: 20px 0 0 38px;
+}
+.div11 p{
+    margin: 20px 0 0 23px;
+}
+.div12 p{
+    margin: 20px 0 0 50px;
+}
+
+
+
+
+/*   ツイッター   ----------------------------------------------*/
+
+.twilink{
+    width: 390px;
+    overflow: scroll;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 5px;
+    background: #D02D30;
+    border: 3px #77b8d3 solid;
+    border-radius: 20px;
+}
+
+
+
+
+/* fin     ----------------------------------------------*/
+.fin{
+    background: #77b8d3;
+    width: 410px;
+    height: 100px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 50px;
+}
+
+
+/*      ----------------------------------------------*/
+
+
+
+
+
+
