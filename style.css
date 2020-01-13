@@ -195,6 +195,8 @@ body{
 }
 
 
+
+
 .div7 p{
     margin: 20px 0 0 45px;
 }
@@ -213,6 +215,36 @@ body{
 .div12 p{
     margin: 20px 0 0 50px;
 }
+
+
+
+
+.div13 p{
+    margin: 20px 0 0 50px;
+}
+.div14 p{
+    margin: 20px 0 0 53px;
+}
+.div15 p{
+    margin: 20px 0 0 44px;
+}
+.div16 p{
+    margin: 20px 0 0 44px;
+}
+.non-theme .div13{
+    display: inline-block;
+}
+.non-theme .div14{
+    display: inline-block;
+}
+.non-theme .div15{
+    display: inline-block;
+}
+.non-theme .div16{
+    display: inline-block;
+}
+
+
 
 
 
