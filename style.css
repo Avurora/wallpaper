@@ -108,148 +108,6 @@ body{
 
 
 
-/*ここからmv*/
-.mv{
-    background: #d3edfb;
-    padding-bottom: 20px;
-    display: inline-block;
-}
-.mv .div1{
-    display: inline-block;
-}
-.mv .div2{
-    display: inline-block;
-}
-
-
-
-
-.div1 p{
-    margin: 20px 0 0 50px;
-}
-.div2 p{
-    margin: 20px 0 0 70px;
-}
-
-
-
-
-/* ユニエアペイント壁紙      ----------------------------------------------*/
-.uniair{
-    background: #9fd9f6;
-    padding-bottom: 20px;
-    display: inline-block;
-}
-.uniair .div3{
-    display: inline-block;
-}
-.uniair .div4{
-    display: inline-block;
-}
-.uniair .div5{
-    display: inline-block;
-}
-.uniair .div6{
-    display: inline-block;
-}
-
-
-
-
-
-.div3 p{
-    margin: 20px 0 0 70px;
-}
-.div4 p{
-    margin: 20px 0 0 67px;
-}
-.div5 p{
-    margin: 20px 0 0 67px;
-}
-.div6 p{
-    margin: 20px 0 0 76px;
-}
-
-/* none theme      ----------------------------------------------*/
-.non-theme{
-    background: #54c3f1;
-    padding-bottom: 20px;
-    display: inline-block;
-}
-.non-theme .div7{
-    display: inline-block;
-}
-.non-theme .div8{
-    display: inline-block;
-}
-.non-theme .div9{
-    display: inline-block;
-}
-.non-theme .div10{
-    display: inline-block;
-}
-.non-theme .div11{
-    display: inline-block;
-}
-.non-theme .div12{
-    display: inline-block;
-}
-
-
-
-
-.div7 p{
-    margin: 20px 0 0 45px;
-}
-.div8 p{
-    margin: 20px 0 0 55px;
-}
-.div9 p{
-    margin: 20px 0 0 25px;
-}
-.div10 p{
-    margin: 20px 0 0 38px;
-}
-.div11 p{
-    margin: 20px 0 0 23px;
-}
-.div12 p{
-    margin: 20px 0 0 50px;
-}
-
-
-
-
-.div13 p{
-    margin: 20px 0 0 50px;
-}
-.div14 p{
-    margin: 20px 0 0 53px;
-}
-.div15 p{
-    margin: 20px 0 0 44px;
-}
-.div16 p{
-    margin: 20px 0 0 44px;
-}
-.non-theme .div13{
-    display: inline-block;
-}
-.non-theme .div14{
-    display: inline-block;
-}
-.non-theme .div15{
-    display: inline-block;
-}
-.non-theme .div16{
-    display: inline-block;
-}
-
-
-
-
-
-
 /*   ツイッター   ----------------------------------------------*/
 
 .twilink{
@@ -267,20 +125,38 @@ body{
 
 
 /* fin     ----------------------------------------------*/
+.subnavi{
+    text-align: right;
+    margin: 20px 20px 0 0;
+}
+
+/* fin     ----------------------------------------------*/
 .fin{
     background: #77b8d3;
     width: 410px;
-    height: 100px;
+    height: 120px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    margin-top: 50px;
+    margin-top: 20px;
+}
+.fin p{
+    color: #FFF;
+    display: block;
+    font-size: 10px;
+    text-align: center;
 }
 
 
 /*      ----------------------------------------------*/
 
 
-
-
-
-
+th img{
+    margin-left: 7px;
+    margin-top: 20px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
+}
+td{
+    text-align: center;
+    margin-left: 7px;
+    font-size: 12px;
+}
