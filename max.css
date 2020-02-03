@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+    .bg{
+        height: 50px;
+    }
+    hedder img {
+        width: 40px;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 6px;
+    }
+    h4{
+        font-size: 25px;
+        letter-spacing: 12px;
+    }
+    header {right: 14px;}
+    
+
+
+
+    .smart{display: block;}
+    .pc{display: none;}
+
+    .commentary{
+        margin-left: 17px;
+        margin-top: 30px;
+    }
+    .commentary p{
+        line-height: 30px;
+        font-size: 14px
+    }
+    
+.commentary h3{
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+    .commentary a{
+        padding-top: 10px;
+        display: block;
+    }
+
+    .drawer{display: none;}
+    .pc-2{display: none;}
+    
+
+    .content-A{
+        margin-top: 30px;
+    }
+    .content-B{display: none;}
+
+th img{
+    width: 90%;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
+}
+td{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+    
+    
+    
+    
+}
