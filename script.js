@@ -10,3 +10,22 @@ $(function(){
     return false;
   });
 });
+
+
+
+
+
+
+$(function(){
+    $(window).scroll(function (){   //ウィンドウがスクロールされたら実行
+        $('tr').each(function(){     //.fadein に()ないの要素を繰り返し処理する.clickの差し替え
+            var elemPos = $(this).offset().top;
+            var scroll = $(window).scrollTop();
+            var windowHeight = $(window).height();
+            if (scroll > elemPos - windowHeight + 250){
+                $(this).addClass('scrollin');
+            }
+        });
+    });
+});
+    
