@@ -167,9 +167,20 @@ h3{
     font-size: 13px;
     padding: 10px;
     line-height: 30px;
-    
 }
 
 
+
+tr {
+    opacity : 0;
+    transform : translate(0, 50px);
+    transition : 500ms;
+    }
+
+/* 画面内に入った状態 */
+tr.scrollin {
+    opacity : 1;
+    transform : translate(0, 0);
+    }
 
 
